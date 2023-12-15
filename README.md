@@ -9,6 +9,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white" alt="ReactJs">
+  
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+
+<img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm">
+
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
 <p align="center">
